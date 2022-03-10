@@ -1,0 +1,36 @@
+---
+name: Technical issue
+about: Tools or technology e.g Docker / terraform etc
+title: '[date] [issue] <title>'
+labels: tool, excerice , chapter , day of execise
+assignees: ''
+
+---
+
+###current behaviour : 
+description of the problem : 
+new grp fails with "crypt:invalid argument"
+
+#platform used 
+o.s with version ubuntu 18.04
+Cloud service Provide : AWS /Azure / GCC
+
+#screenshot if possible 
+
+
+#how to reproduce:
+
+#steps to reproduce
+1. create a new group
+2. add a already logged in user
+3. 
+4.
+
+#actual results 
+
+
+#expected result
+
+
+#Any additional description or expectation
+
