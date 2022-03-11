@@ -3,7 +3,7 @@
 # Fresher-Questions
 
 <details>
-<summary>How much Linux knowledge do we need to get a devops job. Does one need to have indepth knowledge? At least I have knowledge of basic command and a bit knowledge of administration.?</summary><br><b>
+<summary>1. How much Linux knowledge do we need to get a devops job. Does one need to have indepth knowledge? At least I have knowledge of basic command and a bit knowledge of administration.?</summary><br><b>
 
 Learning DevOps you need to have basic linux admin commands understanding.Coz in each tool while learning,you aare going to explore/leran/fail/learn that tool based commands.So not an issue.
 
