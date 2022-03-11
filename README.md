@@ -70,3 +70,29 @@ USECASE:
 </b></details>
 
 <details>
+  
+  
+<summary>2. What do you need in order to communicate?</summary><br><b>
+
+To learn below you need to have good strong linux and small bash scripting knoweldge
+
+1. AWS,
+2. AWS automation using Ansible
+3. AWS automation using Terraform
+4. Azure
+5. Azure automation using Ansible
+6. Azure automation using Terraform
+7. Ansible
+8. Jenkins - CI/CD
+9. Docker
+10. Kubernetes
+
+To learn terraform you must need to have good bash scripting knowledge.
+
+Python is someting you need only in below situations
+
+1. If you planning to get into Data analytics related projects
+2. If you planning to get into Ansible custom module creation
+3. if you are stong in python then many k8s customization can be poissible
+  
+</b></details>
