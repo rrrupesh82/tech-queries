@@ -72,7 +72,7 @@ USECASE:
 <details>
   
   
-<summary>2. What do you need in order to communicate?</summary><br><b>
+<summary>2.Will devops be easier for someone with Bash scripting and python programming knoweldge?</summary><br><b>
 
 To learn below you need to have good strong linux and small bash scripting knoweldge
 
