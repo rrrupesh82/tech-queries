@@ -26,37 +26,37 @@ To get a devops Job with basic linux commands,knoweledge you can very well learn
 
 To learn the above you need the following linux skills
 
-How to create a linx machine in AWS or AZURE or Google Cloud or In your own laptop using vagranet or Vmware workstation or using virtual box.
+1.1. How to create a linx machine in AWS or AZURE or Google Cloud or In your own laptop using vagranet or Vmware workstation or using virtual box.
 
-1.usercreation
-2.groupcreation
-3.file creation
-4.directory creation
-5.copy file
-6.move file
-7.adding user to group
-8.file permission
-9.changing ownership
-10.changing group
-11.sudo priviledge
-12.compression
-13.process
-14.logs
-15.find,grep,sed,awk command
-16.job scheduling
-17.package management
-18.nmcli command
-19.teaming
-20.basic partition
-21.advance partition
-22.network file sharing system
-23.samba file sharing
-24.ISCSI
-25.MariaDatabase
-26.Web Services
-27.ftp service
-28.selinux
-29.NTP
+1. usercreation
+2. groupcreation
+3. file creation
+4. directory creation
+5. copy file
+6. move file
+7. adding user to group
+8. file permission
+9. changing ownership
+10. changing group
+11. sudo priviledge
+12. compression
+13. process
+14. logs
+15. find,grep,sed,awk command
+16. job scheduling
+17. package management
+18. nmcli command
+19. teaming
+20. basic partition
+21. advance partition
+22. network file sharing system
+23. samba file sharing
+24. ISCSI
+25. MariaDatabase
+26. Web Services
+27. ftp service
+28. selinux
+29. NTP
 
 USECASE:
 1. Localrepo creation
